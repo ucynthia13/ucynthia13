@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **AngularJS (FE) & GoLang (BE)**
 
-- 👨‍💻 All of my projects are available at [https://ucynthia.vercel.app](https://ucynthia.vercel.app)
-
 - 📝 I regularly write articles on [https://dev.to/cynthia_](https://dev.to/cynthia_)
 
 - 📫 How to reach me **cynthiaaa877@gmail.com**
