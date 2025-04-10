@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cynthia Umwali</h1>
-<h3 align="center">Hi there! I'm a Full Stack Developer who loves building clean, functional, and user-friendly web apps—from crafting intuitive UIs to designing solid backend systems. I enjoy solving real problems with code, learning new tech, and working on projects that make an impact.</h3>
+<h3 align="center">Hi there! I'm a Full Stack Developer who loves building clean, functional, and user-friendly applications. I enjoy solving real problems with code, learning new tech, and working on projects that make an impact.</h3>
 
 - 🔭 I’m currently working on **PrepView**
 
