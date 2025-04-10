@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **AngularJS (FE) & GoLang (BE)**
 
-- 📝 I regularly write articles on [https://dev.to/cynthia_](https://dev.to/cynthia_)
-
--  📚 A reading list that helps my journey - might help yours as well - [https://medium.com/@cynthiaaa877/list/reading-list](https://medium.com/@cynthiaaa877/list/reading-list)
-
 - 📫 How to reach me **cynthiaaa877@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
