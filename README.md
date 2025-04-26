@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cynthia Umwali</h1>
 
-- 🔭 I’m currently working on **PrepView**
-
-- 🌱 I’m currently learning **AngularJS (FE) & GoLang (BE)**
-
 - 📫 How to reach me **cynthiaaa877@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
